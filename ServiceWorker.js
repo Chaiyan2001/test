@@ -1,9 +1,9 @@
-const cacheName = "DefaultCompany-ProjectOne-0.1";
+const cacheName = "DefaultCompany-Peranagan-0.1";
 const contentToCache = [
-    "Build/AR.loader.js",
-    "Build/AR.framework.js",
-    "Build/AR.data",
-    "Build/AR.wasm",
+    "Build/50%.loader.js",
+    "Build/50%.framework.js",
+    "Build/50%.data",
+    "Build/50%.wasm",
     "TemplateData/style.css"
 
 ];
